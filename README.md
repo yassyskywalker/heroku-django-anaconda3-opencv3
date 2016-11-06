@@ -1,0 +1,2 @@
+# heroku-django-anaconda3-opencv3
+herokuデプロイ用のDockerfile付きのdjangoアプリ
